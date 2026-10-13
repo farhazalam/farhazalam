@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Farhaz Alam. Websites, apps and useful automations.</title>
+  <desc id="desc">A dark charcoal banner with lime accents, a stylized mobile app and connected web window. Based in Dubai.</desc>
+  <rect width="1200" height="410" rx="24" fill="#101110"/>
+  <path d="M0 360H1200M780 0V410" stroke="#242820"/>
+  <circle cx="65" cy="60" r="6" fill="#c9ed35"/>
+  <text x="85" y="66" fill="#c9ed35" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">FARHAZ ALAM</text>
+  <g fill="#f2f4ec" font-family="Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">
+    <text x="58" y="152">Websites, apps</text>
+    <text x="58" y="222">and useful</text>
+    <text x="58" y="292" fill="#c9ed35">automations.</text>
+  </g>
+  <text x="60" y="389" fill="#bbc1b3" font-family="Arial, sans-serif" font-size="18">DUBAI  /  MOBILE + WEB + PRACTICAL AI</text>
+  <text x="987" y="389" fill="#bbc1b3" font-family="Arial, sans-serif" font-size="18">farhazalam.com</text>
+  <rect x="827" y="64" width="315" height="204" rx="15" fill="#1b1e19" stroke="#414938"/>
+  <path d="M827 103H1142" stroke="#414938"/>
+  <g fill="#606956"><circle cx="848" cy="84" r="4"/><circle cx="862" cy="84" r="4"/><circle cx="876" cy="84" r="4"/></g>
+  <rect x="1000" y="122" width="122" height="18" rx="4" fill="#c9ed35"/>
+  <rect x="1000" y="154" width="92" height="7" rx="3" fill="#636b59"/>
+  <rect x="1000" y="173" width="113" height="7" rx="3" fill="#414938"/>
+  <rect x="1000" y="192" width="76" height="7" rx="3" fill="#414938"/>
+  <rect x="866" y="124" width="110" height="113" rx="8" fill="#292f23"/>
+  <path d="M909 165L893 180L909 195M934 165L950 180L934 195" fill="none" stroke="#c9ed35" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="802" y="178" width="122" height="152" rx="21" fill="#101110" stroke="#768460" stroke-width="2"/>
+  <rect x="812" y="191" width="102" height="128" rx="13" fill="#252b20"/>
+  <rect x="847" y="195" width="34" height="5" rx="3" fill="#101110"/>
+  <rect x="826" y="221" width="74" height="38" rx="7" fill="#c9ed35"/>
+  <rect x="826" y="273" width="57" height="6" rx="3" fill="#768460"/>
+  <rect x="826" y="289" width="74" height="6" rx="3" fill="#414938"/>
+  <path d="M943 302H1011Q1028 302 1028 285V281" fill="none" stroke="#768460" stroke-width="2" stroke-dasharray="5 6"/>
+  <circle cx="1057" cy="298" r="27" fill="#c9ed35"/>
+  <path d="M1046 298L1053 305L1069 288" fill="none" stroke="#101110" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
